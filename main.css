@@ -1,0 +1,74 @@
+.container {
+	width: 600px;
+}
+
+
+ul.container{
+	padding:0;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	border: 1px solid lightblue;
+}
+
+
+
+#head1 {
+	background: lightblue;
+	padding-left: 35px;
+	padding:10px;
+	font-size: 35px;
+	cursor: pointer;
+}
+
+
+
+
+#head1:hover{
+	background: blue;
+}
+
+
+#head2 {
+	background: lightblue;
+	padding-left: 35px;
+	padding:10px;
+	font-size: 35px;
+	cursor: pointer;
+}
+
+#head2:hover {
+	background: blue;
+}
+
+
+
+
+#head3 {
+	background: lightblue;
+	padding-left: 35px;
+	padding:10px;
+	font-size: 35px;
+	cursor: pointer;
+}
+
+
+#head3:hover {
+	background: blue;
+}
+
+.par{
+	display:none;
+}
+
+.content{
+	display:block;
+	position: relative;
+}
+
+
+
